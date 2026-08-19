@@ -124,9 +124,9 @@ h1{
             information through this futuristic portal.
         </p>
 
-        <a href="profile" class="btn">
-            ACCESS PROFILE
-        </a>
+        <a href="/student/profile" class="btn">
+    Access Profile
+</a>
 
     </div>
 
