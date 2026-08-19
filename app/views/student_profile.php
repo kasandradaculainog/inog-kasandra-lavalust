@@ -6,7 +6,6 @@
 
 <title><?= $title ?></title>
 
- <h1 style="color:red;">TEST UPDATED DESIGN</h1>
 <style>
     
 
@@ -18,14 +17,13 @@
 }
 
 body{
-    background:
-    radial-gradient(circle at top,#00ffff22,#050816 60%),
-    #050816;
-    min-height:100vh;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    padding:30px;
+    <body>
+
+<h1 style="color:red;font-size:60px;">
+NEW PROFILE DESIGN
+</h1>
+
+</body>
 }
 
 .profile-card{
